@@ -1,0 +1,27 @@
+
+F
+java:S1068"+Remove this unused "vehicle" private field.(¨ƒÔÚüÿÿÿÿ
+X
+java:S1068"=Remove this unused "sourceBusinessPartnerCoCd" private field.(ë„ß¹şÿÿÿÿ
+C
+java:S1068"-Remove this unused "createdBy" private field.(êÍÏÖ
+D
+java:S1068")Remove this unused "claim" private field.(¥è‡Œûÿÿÿÿ
+C
+java:S1068"-Remove this unused "createdOn" private field.(ìÁ’
+A
+java:S1068$",Remove this unused "profiles" private field.(Ş”ˆ
+P
+java:S1068";Remove this unused "sourceBusinessPartnerId" private field.(Æ¼ëR
+O
+java:S1068"9Remove this unused "updateIfAlreadyExists" private field.(„¯şô
+H
+java:S1068"2Remove this unused "creationMethod" private field.(·¡î§
+_
+java:S1068 "DRemove this unused "sourceBusinessPartnerCompanyName" private field.(ºëˆƒûÿÿÿÿ
+G
+java:S1068",Remove this unused "contacts" private field.(¸‚şÿÿÿÿ
+M
+java:S1068""2Remove this unused "inspectionSite" private field.(ö®şùÿÿÿÿ
+C
+java:S1068"-Remove this unused "updatedOn" private field.(ÃŠÀ

@@ -1,0 +1,29 @@
+
+D
+java:S10682".Remove this unused "typeOfLoss" private field.(§µİÏ
+@
+java:S1068I"*Remove this unused "suffix" private field.(€—‰Ì
+m
+java:S1104"WMake isTotalLoss a static final constant or non-public and provide accessors if needed.(ª¥¦î
+G
+java:S1068>",Remove this unused "lossDate" private field.(°«ƒØøÿÿÿÿ
+G
+java:S1068-",Remove this unused "exposure" private field.(€¸è‘ùÿÿÿÿ
+I
+java:S1068U"3Remove this unused "lossDescription" private field.(õ˜ÚÁ
+O
+java:S1068"4Remove this unused "insuranceCompany" private field.(°ùÔüÿÿÿÿ
+E
+java:S10688"/Remove this unused "productType" private field.(±ÌÃœ
+?
+java:S1068P")Remove this unused "payer" private field.(› û™
+K
+java:S1068D"0Remove this unused "reportedDate" private field.(şªÜÀüÿÿÿÿ
+m
+java:S1104"RMake number a static final constant or non-public and provide accessors if needed.(ŞÄù×ùÿÿÿÿ
+E
+java:S1068("*Remove this unused "policy" private field.(¯‚ó©şÿÿÿÿ
+t
+java:S1104"YMake approvedToPay a static final constant or non-public and provide accessors if needed.(¬Ç”Íüÿÿÿÿ
+A
+java:S1068#"+Remove this unused "parties" private field.(ÿªÆ¼

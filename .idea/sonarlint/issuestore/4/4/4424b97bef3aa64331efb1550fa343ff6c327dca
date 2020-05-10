@@ -1,0 +1,91 @@
+
+N
+java:S1068›"2Remove this unused "productionDate" private field.(Ä„ö‘şÿÿÿÿ
+H
+java:S1068"2Remove this unused "serviceBarcode" private field.(íÈ¹˜
+G
+java:S1068 "+Remove this unused "twoTone" private field.(îüıÿÿÿÿ
+I
+java:S1068¾"-Remove this unused "trimColor" private field.(Ë¶»Ëùÿÿÿÿ
+B
+java:S1068Õ"+Remove this unused "styleId" private field.(âê‹‹
+M
+java:S1068Ú"6Remove this unused "vehicleOptionsInfo" private field.(¤§°Ç
+H
+java:S10688"-Remove this unused "bodyStyle" private field.(ı¸çÄÿÿÿÿÿ
+G
+java:S1068Y",Remove this unused "subModel" private field.(Ë‰Œşÿÿÿÿÿ
+=
+java:S1068"'Remove this unused "vid" private field.(ÖƒÀğ
+L
+java:S1068„"0Remove this unused "licensePlate" private field.(ıÙ˜ôúÿÿÿÿ
+B
+java:S1068T",Remove this unused "engineId" private field.(ôñáï
+H
+java:S1068•",Remove this unused "odometer" private field.(ª –úÿÿÿÿ
+C
+java:S1068o"(Remove this unused "type" private field.(–î†ûÿÿÿÿ
+K
+java:S1068Š"/Remove this unused "licenseDate" private field.(Îæ›†ûÿÿÿÿ
+M
+java:S1068j"2Remove this unused "transmissionId" private field.(Úö„íúÿÿÿÿ
+F
+java:S1068"+Remove this unused "country" private field.(“—àÊúÿÿÿÿ
+J
+java:S1068ï"3Remove this unused "actualCashValue" private field.(¡¥°¦
+P
+java:S1068ú":Remove this unused "vehicleSelectionMethod" private field.(£„†
+B
+java:S1068"'Remove this unused "vin" private field.(ç¦‚Îúÿÿÿÿ
+G
+java:S1068"0Remove this unused "licenseState" private field.(çôÂ
+F
+java:S1068É"*Remove this unused "pinVid" private field.(ø¤û˜üÿÿÿÿ
+F
+java:S1068d"0Remove this unused "transmission" private field.(Çç¬Ä
+N
+java:S1068ª"2Remove this unused "colorSecondary" private field.(¸»¤¨ûÿÿÿÿ
+L
+java:S1068´"6Remove this unused "colorCodeSecondary" private field.(Æç¸{
+G
+java:S1068à"+Remove this unused "nadaVid" private field.(ƒ·Ççúÿÿÿÿ
+C
+java:S1068"(Remove this unused "year" private field.(Úş±Ãûÿÿÿÿ
+E
+java:S1068>"/Remove this unused "bodyStyleId" private field.(î³Åî
+@
+java:S1068u"*Remove this unused "typeId" private field.(ó±ˆÈ
+F
+java:S10683"+Remove this unused "modelId" private field.(Ûúáÿÿÿÿÿ
+A
+java:S1068Ã"*Remove this unused "status" private field.(Ø•å
+K
+java:S1068I"0Remove this unused "driveTrainId" private field.(¦¶İïÿÿÿÿÿ
+H
+java:S1068¹"1Remove this unused "interiorColor" private field.(®¤îş
+E
+java:S1068¥".Remove this unused "threeStage" private field.(ƒœó·
+I
+java:S1068_".Remove this unused "subModelId" private field.(©Ëã·ûÿÿÿÿ
+E
+java:S1068N"*Remove this unused "engine" private field.(ï“„ıÿÿÿÿ
+D
+java:S1068Ï"-Remove this unused "sourceVid" private field.(Õæó
+D
+java:S1068-")Remove this unused "model" private field.(³—öûÿÿÿÿ
+K
+java:S1068ô"/Remove this unused "isAcvEdited" private field.(å½›¶şÿÿÿÿ
+D
+java:S1068C".Remove this unused "driveTrain" private field.(ñµê®
+?
+java:S1068z")Remove this unused "color" private field.(È„…¦
+D
+java:S1068¯"-Remove this unused "colorCode" private field.(Ó©ÇŸ
+C
+java:S1068""(Remove this unused "make" private field.(Ïæãùÿÿÿÿ
+B
+java:S1068ê"+Remove this unused "zipCode" private field.(ŞùÎå
+E
+java:S1068("*Remove this unused "makeId" private field.(š€­áúÿÿÿÿ
+T
+java:S1068å"8Remove this unused "redbookControlNumber" private field.(úŞ÷Åşÿÿÿÿ
